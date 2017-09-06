@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg fill="white" stroke-width="0" stroke="white">
+ <circle cx="55" cy="55" r="40" fill-opacity="0.0" stroke-opacity="0">
+  <circle cx="55" cy="55" r="41" fill-opacity="0.0" stroke-opacity="0">
+   <circle cx="55" cy="55" r="44" fill-opacity="0.0" stroke-opacity="0">
+    <circle cx="55" cy="55" r="45" fill-opacity="0.3" stroke-opacity="0">
+     <circle cx="55" cy="55" r="46" fill-opacity="0.3" stroke-opacity="0">
+      <circle cx="55" cy="55" r="47" fill-opacity="0.2" stroke-opacity="0">
+       <circle cx="55" cy="55" r="48" fill-opacity="0.2" stroke-opacity="0">
+        <circle cx="55" cy="55" r="49" fill-opacity="0.1" stroke-opacity="0">
+         <circle cx="55" cy="55" r="50" fill-opacity="0.1" stroke-opacity="1">
+         </circle>
+        </circle>
+       </circle>
+      </circle>
+     </circle>
+    </circle>
+   </circle>
+  </circle>
+ </circle>
+</svg>

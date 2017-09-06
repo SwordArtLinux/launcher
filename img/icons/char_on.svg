@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg fill="white" fill-opacity="0.65">
+ <circle cx="55" cy="40" r="10" />
+ <ellipse cx="55" cy="70" rx="15" ry="20" />
+ <g fill-opacity="1.0">
+  <rect x="40" y="75" width="30" height="20" fill="orange" fil-opacity="1.0" />
+ </g>
+</svg>
