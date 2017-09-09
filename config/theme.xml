@@ -1,0 +1,60 @@
+<xml version="1.0" encoding="utf-8">
+<theme active="">
+ <sao>
+  <cards>
+   <orb path="" />
+   <confirm path="" />
+   <cancel path="" />
+   <menu path="" />
+   <panel path="" />
+  </cards
+  <icons>
+  </icons>
+  <sound>
+   <open path ="" active="" />
+   <close path ="" active="" />
+   <confirm path ="" active="" />
+   <cancel path ="" active="" />
+   <link_start path ="" active="" />
+   <menu path ="" active="" />
+  </sound>
+ </sao>
+ <ggo>
+  <cards>
+   <orb path="" />
+   <confirm path="" />
+   <cancel path="" />
+   <menu path="" />
+   <panel path="" />
+  </cards
+  <icons>
+  </icons>
+  <sound>
+   <open path ="" active="" />
+   <close path ="" active="" />
+   <confirm path ="" active="" />
+   <cancel path ="" active="" />
+   <link_start path ="" active="" />
+   <menu path ="" active="" />
+  </sound>
+ </ggo>
+ <alo>
+  <cards>
+   <orb path="" />
+   <confirm path="" />
+   <cancel path="" />
+   <menu path="" />
+   <panel path="" />
+  </cards
+  <icons>
+  </icons>
+  <sound>
+   <open path ="" active="" />
+   <close path ="" active="" />
+    <confirm path ="" active="" />
+   <cancel path ="" active="" />
+   <link_start path ="" active="" />
+   <menu path ="" active="" />
+  </sound>
+ </alo>
+</theme>
